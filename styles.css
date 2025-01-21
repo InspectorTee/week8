@@ -47,7 +47,7 @@ header {
 }
 
 .weather-day {
-  color: #df6630;
+  color: #d1e8ff;
 }
 .weather-details {
   font-size: 16px;
@@ -78,7 +78,7 @@ header {
 }
 
 .weather-forecast {
-  color: #5fc5ff;
+  color: black;
   margin-top: 20px;
   display: flex;
   justify-content: space-around;
@@ -90,7 +90,7 @@ header {
 }
 
 .weather-forecast-date {
-  color: #df6630;
+  color: #d1e8ff;
   font-size: 16px;
   color: whitesmoke;
   font-size: 20px;
